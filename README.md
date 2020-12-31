@@ -1,2 +1,2 @@
-#Practice Gitub #2
-##Uploading from offline
+# Practice Gitub  2
+## Uploading from offline
